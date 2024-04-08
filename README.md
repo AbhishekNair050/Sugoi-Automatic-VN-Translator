@@ -48,4 +48,10 @@ const pythonFlaskServerPorts = [14366, 14367, 14368]; // Update with Sugoi Trans
     
     Here, "太郎" is the main text, while "たろう" is the Ruby text providing the pronunciation guide. Ruby text may need to be replaced manually after translation.
 
-By following these instructions, the script streamlines the translation process for Japanese visual novels using Sugoi Translator, ensuring accurate localization for international audiences while acknowledging the limitation regarding Ruby text translation.
+
+### Acknowledgments:
+
+- Special thanks to [Sugoi Translator](https://github.com/leminhyen2/Sugoi-Japanese-Translator) for providing the machine translation service.
+- Credits to [VNtextPatch](https://github.com/arcusmaximus/VNTranslationTools) for their contribution to text extraction from visual novels.
+
+By following these instructions, the script eases the translation process for Japanese visual novels using Sugoi Translator, ensuring accurate localization for international audiences.
