@@ -60,8 +60,8 @@ async function translate(textToBeTranslated, pythonFlaskServerPortNumber) {
   }
 }
 
-const directoryPath = 'C:\\Users\\ABHISHEK\\Downloads\\VNTextPatch\\temp'; // Replace with your directory path
-const pythonFlaskServerPorts = [14366, 14367, 14368]; // Replace with your ports 
+const directoryPath = ' '; // Replace with your directory path
+const pythonFlaskServerPorts = [ ]; // Replace with your ports 
 
 (async () => {
   await translateJsonFilesInDirectory(directoryPath, pythonFlaskServerPorts);
