@@ -1,0 +1,1 @@
+# Sugoi-Automatic-VN-Translator
