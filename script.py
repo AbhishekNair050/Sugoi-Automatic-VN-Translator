@@ -82,9 +82,9 @@ def translation_filter(translation_text):
 
 
 directory_path = (
-    r"C:\Users\ABHISHEK\Downloads\VNTextPatch\toki"  # Replace with your directory path
+    r" "  # Replace with your directory path
 )
-python_flask_server_ports = [14366, 14367, 14368]  # Replace with your Flask Port(s)
+python_flask_server_ports = [ ]  # Replace with your Flask Port(s)
 
 
 async def main():
