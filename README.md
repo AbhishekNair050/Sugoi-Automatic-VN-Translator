@@ -4,8 +4,8 @@ This script automates the translation process for Japanese visual novels using S
 
 ### Instructions:
 
-1. **Extract Text Using VNtranslator**:
-   - Use VNtranslator to extract text from the visual novel and save it in JSON format. Ensure each JSON file contains an array of objects with a "message" property containing the text to be translated.
+1. **Extract Text Using VNTextPatch**:
+   - Use VNTextPatch[https://github.com/arcusmaximus/VNTranslationTools] to extract text from the visual novel and save it in JSON format. Ensure each JSON file contains an array of objects with a "message" property containing the text to be translated.
 
 2. **Start Sugoi Translator Servers**:
    - Run Sugoi Translator servers locally. These servers can be set up on any number of instances, CPU or GPU-based, each listening on a specific port.
